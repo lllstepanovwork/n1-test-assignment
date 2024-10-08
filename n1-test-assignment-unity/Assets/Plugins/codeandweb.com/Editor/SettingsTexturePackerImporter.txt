@@ -1,11 +1,14 @@
 version: 2
 tpsheetFileNames:
 - Assets/N1TestAssignment/Sprites/general-forms-atlas.tpsheet
+- Assets/N1TestAssignment/Sprites/n1-atlas.tpsheet
 - Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 textureFileNames:
 - Assets/N1TestAssignment/Sprites/general-forms-atlas.png
+- Assets/N1TestAssignment/Sprites/n1-atlas.png
 - Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites.png
 normalmapFileNames:
+- 
 - 
 - Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites_n.png
 enableDebugOutput: 0
