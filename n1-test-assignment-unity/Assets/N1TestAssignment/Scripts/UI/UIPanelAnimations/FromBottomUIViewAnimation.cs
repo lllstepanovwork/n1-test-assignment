@@ -23,7 +23,7 @@ namespace N1TestAssignment.UI
             }
 
             uIView.contentTransform.position = new Vector3(0, startY, 0);
-            uIView.contentTransform.DOMoveY(endY, 0.5f).OnComplete(() =>
+            uIView.contentTransform.DOMoveY(endY, 1f).OnComplete(() =>
             {
                 onComplete?.Invoke();
             });
